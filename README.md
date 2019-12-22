@@ -11,12 +11,12 @@ In general Kickstarter projects are (53.8%) more likely to be successful than to
 
 If we look into the individual forty-one subcategories we can see which subcategories are the most successful. We will talk about rates though they are not very statistically significant since the sample size is so small. When we look at the subcategory projects that were completed meaning that they were either successful or unsuccessful, we have subcategories with a hundred percent success rate: classical music, documentary, electronic music, hardware, metal, non-fiction, pop, radio and podcasts, rock, shorts, small batch, table top games, and television. We also have project subcategories that were a hundred percent unsuccessful: animation, children’s books, drama, faith, fiction, food trucks, gadgets, jazz, mobile games, nature, people, places, restaurants, translations, videogames and web. However, it is critical to reemphasize the numbers may not be statistically significant given that the sample is even smaller to derive solid conclusion. A safe conclusion to make, is that plays are very popular.
 
-![Test Image](https://github.com/mserobabina/Crowdfunding_Services/blob/master/Excel1/Capture3.PNG)
+![Test Image](https://github.com/mserobabina/Crowdfunding_Services/blob/master/Excel1/Capture3.PNG) 
 
 Finally, past mid-May we have an accelerated decrease of success and the gap between successful and unsuccessful narrows down until the month of December when the lines intersect and the failed count surpasses successful for the first time. What this suggests is that we need to look at the information such as the percent funded for the highest and lowest success count and see if we can see significant correlations. Even when we filter the last months of the year by category no industry shows a trend of “success” in the month December.
 
 ![Test Image](https://github.com/mserobabina/Crowdfunding_Services/blob/master/Excel1/Capture4.PNG)
- 
+
 ## Limitations
 - There dataset is not large enough for all categories and subcategories, so some of the results are not statistically relevant given the small sample size. We need to figure out how statistically significant these results are.
 - We need to analyze a variety of crowdsourcing companies to draw more significant insights.
