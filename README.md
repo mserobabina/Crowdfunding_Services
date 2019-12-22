@@ -4,7 +4,7 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. 
 ## Objectives
 This is an Excel Analysis of four thousand past Kickstarter projects to uncover hidden trends by examining the funding process and success rate.
-## Observations 
+## Observations  
 In general Kickstarter projects are (53.8%) more likely to be successful than to fail (37.6%) or get cancelled (8.6%). What interesting is that if we look into the outcomes of completed projects as separate categories we may notice that a stark difference (if we filter by successful and unsuccessful outcomes only). The implication is that Kickstarters in music (82%), theatre (63%), film and video (63%), have the highest success rates and food (20%), games (36%) and publishing (50%) have the lowest success rates. One more thing to point out is that technology projects get canceled about a third of the time, when we look at the projects that reached completion only fifty percent are successful. If this information were presented to backers they would probably think twice about supporting the goals of certain categories.
  
 ![Test Image](https://github.com/mserobabina/Crowdfunding_Services/blob/master/Excel1/Capture2.PNG)
