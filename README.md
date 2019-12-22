@@ -16,7 +16,7 @@ If we look into the individual forty-one subcategories we can see which subcateg
 Finally, past mid-May we have an accelerated decrease of success and the gap between successful and unsuccessful narrows down until the month of December when the lines intersect and the failed count surpasses successful for the first time. What this suggests is that we need to look at the information such as the percent funded for the highest and lowest success count and see if we can see significant correlations. Even when we filter the last months of the year by category no industry shows a trend of “success” in the month December.
 
 ![Test Image](https://github.com/mserobabina/Crowdfunding_Services/blob/master/Excel1/Capture4.PNG)
-
+ 
 ## Limitations
 - There dataset is not large enough for all categories and subcategories, so some of the results are not statistically relevant given the small sample size. We need to figure out how statistically significant these results are.
 - We need to analyze a variety of crowdsourcing companies to draw more significant insights.
